@@ -1,0 +1,573 @@
+Country,Admin1,Facility_n,Facility_t,Ownership,Lat,Long,LL_source
+Rwanda,East,Bugaragara Health Centre,Health Centre,Public,-1.2907,30.4122999999999,GPS
+Rwanda,East,Bugarura Health Centre,Health Centre,Public,-1.7333,30.3378,GPS
+Rwanda,East,Buhabwa Health Centre,Health Centre,Public,-1.7446,30.5698,Geonames
+Rwanda,East,Bukora Health Centre,Health Centre,Public,-2.3088,30.7865,GPS
+Rwanda,East,Cyabayaga Health Centre,Health Centre,Public,-1.395,30.2951,GPS
+Rwanda,East,Cyarubare Health Centre,Health Centre,Public,-2.0204,30.6376999999999,GPS
+Rwanda,East,Cyondo Health Centre,Health Centre,Public,-1.4406,30.1206,GPS
+Rwanda,East,Fumbwe Health Post,Health Post,Public,-1.8599,30.286,Geonames
+Rwanda,East,Gahara Health Centre,Health Centre,Public,-2.334,30.5043,GPS
+Rwanda,East,Gahengeri Health Centre,Health Centre,Public,-1.9707,30.3220999999999,GPS
+Rwanda,East,Gahini District Hospital,District Hospital,Public,-1.8407,30.4832,GPS
+Rwanda,East,Gahini Health Centre,Health Centre,Public,-1.8407,30.4832,GPS
+Rwanda,East,Gakenke Health Centre,Health Centre,Public,-1.8016,30.4163999999999,GPS
+Rwanda,East,Gakurazo Health Centre,Health Centre,Public,-2.1853,30.0254,GPS
+Rwanda,East,Gasange Health Centre,Health Centre,Public,-1.8093,30.2971,GPS
+Rwanda,East,Gashongora Health Centre,Health Centre,Public,-2.3178,30.5506999999999,GPS
+Rwanda,East,Gashora Health Centre,Health Centre,Public,-2.2055,30.245,GPS
+Rwanda,East,Gatebe Health Post,Health Post,Public,-1.2836,30.5122,Geonames
+Rwanda,East,Gatseta Health Post,Health Post,Public,-2.0757,30.5529,Geonames
+Rwanda,East,Gatsibo Health Centre,Health Centre,Public,-1.5826,30.2391,GPS
+Rwanda,East,Gihinga Health Centre,Health Centre,Public,-2.2706,30.0076,GPS
+Rwanda,East,Gitoki Health Centre,Health Centre,Public,-1.6426,30.3225,GPS
+Rwanda,East,Gituku Health Centre,Health Centre,Public,-2.1354,30.6396,GPS
+Rwanda,East,Gituza Health Centre,Health Centre,Public,-1.6192,30.2918999999999,GPS
+Rwanda,East,Humure Health Centre,Health Centre,Public,-1.6829,30.3065,GPS
+Rwanda,East,Hunga Health Post,Health Post,Public,-1.5089,30.1536,Geonames
+Rwanda,East,Jarama Health Centre,Health Centre,Public,-2.28,30.3812,GPS
+Rwanda,East,Juru Health Centre,Health Centre,Public,-2.1154,30.2328,GPS
+Rwanda,East,Kabarondo (Kayonza) Health Centre,Health Centre,Public,-2.0103,30.5577,GPS
+Rwanda,East,Kabarore Health Centre,Health Centre,Public,-1.6242,30.3887,GPS
+Rwanda,East,Kabuga (Karama Nyagatare) Health Centre,Health Centre,Public,-1.3551,30.1983999999999,GPS
+Rwanda,East,Kabuye (kirehe) Health Centre,Health Centre,Public,-2.0876,30.7779999999999,GPS
+Rwanda,East,Kageyo (Gatsibo) Health Centre,Health Centre,Public,-1.6796,30.2709,GPS
+Rwanda,East,Kageyo I (Kayonza Gahini) Health Centre,Health Centre,Public,-1.8394,30.6539,GPS
+Rwanda,East,Kagitumba Health Centre,Health Centre,Public,-1.0768,30.4494,GPS
+Rwanda,East,Kamabuye Health Centre,Health Centre,Public,-2.3719,30.1301999999999,GPS
+Rwanda,East,Karama (kayonza) Health Centre,Health Centre,Public,-2.0516,30.6017,GPS
+Rwanda,East,Karangazi Health Centre,Health Centre,Public,-1.3883,30.3885,GPS
+Rwanda,East,Karenge Health Centre,Health Centre,Public,-2.0818,30.3096,GPS
+Rwanda,East,Katabagemu Health Centre,Health Centre,Public,-1.4742,30.2769,GPS
+Rwanda,East,Kibondo Health Centre,Health Centre,Public,-1.5639,30.3190999999999,GPS
+Rwanda,East,Kibungo Health Centre,Health Centre,Public,-2.1626,30.5437,GPS
+Rwanda,East,Kibungo Referral Hospital,Referral Hospital,Public,-2.1659,30.5394,GPS
+Rwanda,East,Kigarama Health Centre,Health Centre,Public,-2.3177,30.6892999999999,Geonames
+Rwanda,East,Kirehe District Hospital,District Hospital,Public,-2.2674,30.6536,GPS
+Rwanda,East,Kirehe Health Centre,Health Centre,Public,-2.2666,30.6536,GPS
+Rwanda,East,Kirwa Health Centre,Health Centre,Public,-2.0777,30.4671999999999,GPS
+Rwanda,East,Kiziguro (gatsibo) Health Centre,Health Centre,Public,-1.7662,30.3847999999999,GPS
+Rwanda,East,Kiziguro District Hospital,District Hospital,Public,-1.7666,30.3847999999999,GPS
+Rwanda,East,Mahama Health Centre,Health Centre,Public,-2.2653,30.657,Geonames
+Rwanda,East,Mareba Health Centre,Health Centre,Public,-2.2478,30.0702,GPS
+Rwanda,East,Matimba Health Centre,Health Centre,Public,-1.1262,30.4261,GPS
+Rwanda,East,Mayange (Bugesera) Health Centre,Health Centre,Public,-2.2067,30.1446,GPS
+Rwanda,East,Mayange (Gatsibo) Health Post,Health Post,Public,-1.5485,30.2185999999999,Geonames
+Rwanda,East,Mbogo Health Post,Health Post,Public,-1.7431,30.4364999999999,Geonames
+Rwanda,East,Mimuri Health Centre,Health Centre,Public,-1.4478,30.2520999999999,GPS
+Rwanda,East,Muhambo Health Centre,Health Centre,Public,-1.442,30.1646,GPS
+Rwanda,East,Muhura Health Centre,Health Centre,Public,-1.7587,30.292,GPS
+Rwanda,East,Muhurire Health Post,Health Post,Public,-2.0981,30.5454,Geonames
+Rwanda,East,Mukarange Health Centre,Health Centre,Public,-1.9076,30.506,GPS
+Rwanda,East,Mulindi (kirehe) Health Centre,Health Centre,Public,-2.103,30.6922,GPS
+Rwanda,East,Munyaga Health Centre,Health Centre,Public,-2.0275,30.4661,GPS
+Rwanda,East,Murambi (rwamagana) Health Centre,Health Centre,Public,-1.8755,30.4557,GPS
+Rwanda,East,Murehe Health Post,Health Post,Public,-2.0079,30.2802,Geonames
+Rwanda,East,Musaza Health Centre,Health Centre,Public,-2.331,30.6284999999999,GPS
+Rwanda,East,Musenyi (Nyagatare) Fosacom Community-owned health facility,Health Post,CBO,-1.4582,30.6982,Geonames
+Rwanda,East,Musha (rwamagana) Health Centre,Health Centre,Public,-1.931,30.3321,GPS
+Rwanda,East,Mushikiri Health Centre,Health Centre,Public,-2.1907,30.6739999999999,GPS
+Rwanda,East,Mutenderi Health Centre,Health Centre,Public,-2.2731,30.4889,GPS
+Rwanda,East,Muyumbu Health Centre,Health Centre,Public,-1.9742,30.2573,GPS
+Rwanda,East,Mwogo Health Centre,Health Centre,Public,-2.084,30.1567,GPS
+Rwanda,East,Nasho Health Centre,Health Centre,Public,-2.1304,30.8517,GPS
+Rwanda,East,Ndama (Nyagatare) Health Centre,Health Centre,Public,-1.4128,30.4696,GPS
+Rwanda,East,Ndego Health Centre,Health Centre,Public,-2.0141,30.7023,GPS
+Rwanda,East,Ngarama District Hospital,District Hospital,Public,-1.546,30.2428999999999,GPS
+Rwanda,East,Ngarama Health Centre,Health Centre,Public,-1.546,30.2597999999999,GPS
+Rwanda,East,Ngeruka Health Centre,Health Centre,Public,-2.334,30.1025999999999,GPS
+Rwanda,East,Ntarama Health Centre,Health Centre,Public,-2.1086,30.0654,GPS
+Rwanda,East,Ntaruka (nasho Kirehe) Health Centre,Health Centre,Public,-2.1443,30.6907,GPS
+Rwanda,East,Ntoma Health Centre,Health Centre,Public,-1.1368,30.3899,GPS
+Rwanda,East,Nyabisindu Health Post,Health Post,Public,-1.8286,30.3867,Geonames
+Rwanda,East,Nyabitare (kirehe) Health Centre,Health Centre,Public,-2.2134,30.7951,GPS
+Rwanda,East,Nyagahanga Health Centre,Health Centre,Public,-1.6096,30.2205,GPS
+Rwanda,East,Nyagahita Health Centre,Health Centre,Public,-1.486,30.2028,GPS
+Rwanda,East,Nyagasambu Health Centre,Health Centre,Public,-1.8819,30.2871999999999,GPS
+Rwanda,East,Nyagasozi Health Post,Health Post,Public,-2.1639,30.4646,Geonames
+Rwanda,East,Nyagatare District Hospital,District Hospital,Public,-1.2981,30.3262,GPS
+Rwanda,East,Nyagatare Health Centre,Health Centre,Public,-1.2962,30.3248,GPS
+Rwanda,East,Nyagihanga Health Centre,Health Centre,Public,-1.5353,30.1792,GPS
+Rwanda,East,Nyakabungo Health Centre,Health Centre,Public,-1.8391,30.5809,GPS
+Rwanda,East,Nyakaliro Health Centre,Health Centre,Public,-2.0361,30.2541,GPS
+Rwanda,East,Nyakigando (Nyagatare) Health Centre,Health Centre,Public,-1.4384,30.3432,GPS
+Rwanda,East,Nyamata District Hospital,District Hospital,Public,-2.1384,30.0798999999999,GPS
+Rwanda,East,Nyamata Health Centre,Health Centre,Public,-2.1469,30.0912,GPS
+Rwanda,East,Nyamirama Health Centre,Health Centre,Public,-1.9516,30.5192,GPS
+Rwanda,East,Nyange Health Centre,Health Centre,Public,-2.1107,30.3729,GPS
+Rwanda,East,Nyarubuye (kirehe) Health Centre,Health Centre,Public,-2.1736,30.7582999999999,GPS
+Rwanda,East,Nyarugenge Health Centre,Health Centre,Public,-2.2996,30.0203999999999,Geonames
+Rwanda,East,Nyarurema Health Centre,Health Centre,Public,-1.4051,30.1650999999999,GPS
+Rwanda,East,Nyendo (Nyagatare) Health Post,Health Post,Public,-1.2128,30.2983,Geonames
+Rwanda,East,Nzangwa Health Centre,Health Centre,Public,-2.3394,30.2652,GPS
+Rwanda,East,Nzige Health Centre,Health Centre,Public,-2.0262,30.3371,GPS
+Rwanda,East,Remera Health Centre,Health Centre,Public,-2.081,30.556,GPS
+Rwanda,East,Rilima Health Centre,Health Centre,Public,-2.1579,30.2299,GPS
+Rwanda,East,Rubona (ngoma) Health Post,Health Post,Public,-2.1817,30.3314999999999,Geonames
+Rwanda,East,Rubona (rwamagana) Health Centre,Health Centre,Public,-2.0386,30.3966999999999,GPS
+Rwanda,East,Rugarama (gatsibo) Health Centre,Health Centre,Public,-1.7004,30.4105999999999,GPS
+Rwanda,East,Ruhuha Health Centre,Health Centre,Public,-2.3102,30.0546,GPS
+Rwanda,East,Ruhunda Health Centre,Health Centre,Public,-1.9005,30.4125,GPS
+Rwanda,East,Rukara Health Centre,Health Centre,Public,-1.6969,30.503,GPS
+Rwanda,East,Rukira Health Centre,Health Centre,Public,-2.1997,30.5881,GPS
+Rwanda,East,Rukoma Sake Health Centre,Health Centre,Public,-2.2165,30.3854,GPS
+Rwanda,East,Rukomo Health Centre,Health Centre,Public,-1.3789,30.2509,GPS
+Rwanda,East,Rukumberi Health Centre,Health Centre,Public,-2.175,30.3264999999999,GPS
+Rwanda,East,Ruramira Health Centre,Health Centre,Public,-1.9815,30.5041,GPS
+Rwanda,East,Rurenge Health Centre,Health Centre,Public,-1.3323,30.2771,GPS
+Rwanda,East,Rusumo Health Centre,Health Centre,Public,-2.2834,30.756,GPS
+Rwanda,East,Rutare (kayonza) Health Centre,Health Centre,Public,-1.9254,30.5553999999999,GPS
+Rwanda,East,Rwamagana Health Centre,Health Centre,Public,-1.9507,30.4326,GPS
+Rwanda,East,Rwamagana Provincial Hospital,Provincial Hospital,Public,-1.9503,30.4331,GPS
+Rwanda,East,Rwantonde Health Centre,Health Centre,Public,-2.3579,30.5656,Geonames
+Rwanda,East,Rwembogo Health Centre,Health Centre,Public,-1.6072,30.5025,GPS
+Rwanda,East,Rwempasha Health Centre,Health Centre,Public,-1.2208,30.3031,GPS
+Rwanda,East,Rwimitereri Health Centre,Health Centre,Public,-1.8161,30.3455,GPS
+Rwanda,East,Rwinkwavu District Hospital,District Hospital,Public,-1.964,30.6141,GPS
+Rwanda,East,Rwinkwavu Health Centre,Health Centre,Public,-1.964,30.6148999999999,GPS
+Rwanda,East,Ryamanyoni Health Centre,Health Centre,Public,-1.7184,30.4836999999999,GPS
+Rwanda,East,Sangaza Health Centre,Health Centre,Public,-2.1863,30.3994,GPS
+Rwanda,East,Tabagwe Health Centre,Health Centre,Public,-1.2872,30.2106999999999,GPS
+Rwanda,East,Zaza Health Centre,Health Centre,Public,-2.1557,30.4338,GPS
+Rwanda,Kigali City,Avega Kigali Health Centre,Health Centre,Public,-1.9585,30.1068,GPS
+Rwanda,Kigali City,Bethsaida Health Centre,Health Centre,Public,-1.9768,30.1145,GPS
+Rwanda,Kigali City,Biryogo Health Centre,Health Centre,Public,-1.9669,30.0599999999999,GPS
+Rwanda,Kigali City,Bumbogo (ex-Gikomero I) Health Centre,Health Centre,Public,-1.8871,30.2186999999999,GPS
+Rwanda,Kigali City,Busanza Health Centre,Health Centre,Public,-1.9801,30.1496,GPS
+Rwanda,Kigali City,Butamwa Health Centre,Health Centre,Public,-2.0255,30.0237,GPS
+Rwanda,Kigali City,Caraes Ndera National Referral Hospital,National Referral Hospital,Public,-1.9547,30.169,GPS
+Rwanda,Kigali City,CHK/CHUK National Referral Hospital,National Referral Hospital,Public,-1.9565,30.0604,GPS
+Rwanda,Kigali City,Cor Unum Health Centre,Health Centre,Public,-1.9454,30.0483,GPS
+Rwanda,Kigali City,Gahanga Health Centre,Health Centre,Public,-2.027,30.1042999999999,GPS
+Rwanda,Kigali City,Gatenga Health Centre,Health Centre,Public,-1.9801,30.0917999999999,GPS
+Rwanda,Kigali City,Gihogwe Health Centre,Health Centre,Public,-1.9058,30.0461999999999,GPS
+Rwanda,Kigali City,Gikomero II Health Centre,Health Centre,Public,-1.8598,30.1538,GPS
+Rwanda,Kigali City,Gikondo Health Centre,Health Centre,Public,-1.97,30.0783999999999,GPS
+Rwanda,Kigali City,Gitega (Nyarugenge) Health Centre,Health Centre,Public,-1.9577,30.0598999999999,GPS
+Rwanda,Kigali City,Jali Health Centre,Health Centre,Public,-1.89,30.0191,GPS
+Rwanda,Kigali City,Kabuga (Kicukiro) Health Centre,Health Centre,Public,-1.9949,30.2242999999999,GPS
+Rwanda,Kigali City,Kabusunzu Health Centre,Health Centre,Public,-1.963,30.0519,GPS
+Rwanda,Kigali City,Kabuye Health Centre,Health Centre,Public,-1.8898,30.0635,GPS
+Rwanda,Kigali City,Kacyiru District Hospital,District Hospital,Public,-1.9331,30.0751999999999,GPS
+Rwanda,Kigali City,Kagugu Health Centre,Health Centre,Public,-1.9129,30.0863,GPS
+Rwanda,Kigali City,Kairos Health Centre,Health Centre,Public,-2.0062,30.1429,Combination
+Rwanda,Kigali City,Kanyinya Health Centre,Health Centre,Public,-1.9183,30.0043,Geonames
+Rwanda,Kigali City,Kayanga Health Centre,Health Centre,Public,-1.842,30.1905,GPS
+Rwanda,Kigali City,Kibagabaga District Hospital,District Hospital,Public,-1.9308,30.1119999999999,GPS
+Rwanda,Kigali City,Kicukiro Health Centre,Health Centre,Public,-1.9767,30.1145,GPS
+Rwanda,Kigali City,Kimironko Health Centre,Health Centre,Public,-1.9514,30.1261,GPS
+Rwanda,Kigali City,King Faisal National Referral Hospital,National Referral Hospital,Public,-1.9439,30.0950999999999,GPS
+Rwanda,Kigali City,Kinyinya Health Centre,Health Centre,Public,-1.9185,30.1119999999999,GPS
+Rwanda,Kigali City,Masaka District Hospital,District Hospital,Public,-1.9956,30.1912999999999,GPS
+Rwanda,Kigali City,Masaka Health Centre,Health Centre,Public,-1.9956,30.1912999999999,GPS
+Rwanda,Kigali City,Muhima District Hospital,District Hospital,Public,-1.9367,30.0584999999999,GPS
+Rwanda,Kigali City,Muhima Health Centre,Health Centre,Public,-1.9367,30.0585999999999,GPS
+Rwanda,Kigali City,Mwendo (nyarugenge) Health Centre,Health Centre,Public,-1.9821,30.0163,GPS
+Rwanda,Kigali City,Nduba Health Centre,Health Centre,Public,-1.8585,30.1168,GPS
+Rwanda,Kigali City,Nyacyonga Health Centre,Health Centre,Public,-1.868,30.0841999999999,GPS
+Rwanda,Kigali City,Nyarugunga Health Centre,Health Centre,Public,-1.9755,30.1691,GPS
+Rwanda,Kigali City,Nyarurenzi Health Centre,Health Centre,Public,-1.9411,30.0508999999999,Geonames
+Rwanda,Kigali City,Rubungo Health Centre,Health Centre,Public,-1.946,30.1738,GPS
+Rwanda,Kigali City,Rugarama (Nyarugenge) Health Centre,Health Centre,Public,-1.992,30.0433999999999,GPS
+Rwanda,North,Bisate Health Centre,Health Centre,Public,-1.4558,29.5252,GPS
+Rwanda,North,Bubangu Health Centre,Health Centre,Public,-1.823,30.0233999999999,Geonames
+Rwanda,North,Bungwe (Burera) Health Centre,Health Centre,Public,-1.5031,29.9729999999999,GPS
+Rwanda,North,Burega Health Centre,Health Centre,Public,-1.7248,30.0347,Geonames
+Rwanda,North,Busengo Health Centre,Health Centre,Public,-1.6246,29.7012,GPS
+Rwanda,North,Bushara Health Centre,Health Centre,Public,-1.528,30.0811999999999,GPS
+Rwanda,North,Bushoka Health Centre,Health Centre,Public,-1.5967,29.7361,GPS
+Rwanda,North,Busogo Health Centre,Health Centre,Public,-1.5544,29.5401999999999,GPS
+Rwanda,North,Butaro District Hospital,District Hospital,Public,-1.4089,29.8366,GPS
+Rwanda,North,Butaro Health Centre,Health Centre,Public,-1.4089,29.8364,GPS
+Rwanda,North,Buyoga Health Centre,Health Centre,Public,-1.6941,30.0126999999999,GPS
+Rwanda,North,Bwisige Health Centre,Health Centre,Public,-1.5796,30.1542999999999,GPS
+Rwanda,North,Byumba District Hospital,District Hospital,Public,-1.5893,30.0550999999999,GPS
+Rwanda,North,Byumba Health Centre,Health Centre,Public,-1.5887,30.0558,GPS
+Rwanda,North,Coko (Ruli) Health Centre,Health Centre,Public,-1.7647,29.8226,GPS
+Rwanda,North,Cyabingo Health Centre,Health Centre,Public,-1.5854,29.6881999999999,GPS
+Rwanda,North,Cyanika (Burera) Health Centre,Health Centre,Public,-1.3816,29.7285,GPS
+Rwanda,North,Cyumba Health Centre,Health Centre,Public,-1.504,30.0108,Geonames
+Rwanda,North,Gahunga Health Centre,Health Centre,Public,-1.4502,29.7001999999999,GPS
+Rwanda,North,Gasakuza Health Post,Health Post,Public,-1.5122,29.7037,GPS
+Rwanda,North,Gashaki Health Centre,Health Centre,Public,-1.5403,29.7503999999999,GPS
+Rwanda,North,Gasiza (musanze) Health Centre,Health Centre,Public,-1.4517,29.6526999999999,GPS
+Rwanda,North,Gataraga (Musanze) Health Centre,Health Centre,Public,-1.5349,29.5577,GPS
+Rwanda,North,Gatebe Health Centre,Health Centre,Public,-1.5109,29.9299,Google Earth
+Rwanda,North,Gatonde Health Centre,Health Centre,Public,-1.6587,29.6648999999999,GPS
+Rwanda,North,Gisiza Health Centre,Health Centre,Public,-1.6089,30.1244,GPS
+Rwanda,North,Gitare Health Centre,Health Centre,Public,-1.3906,29.7665,GPS
+Rwanda,North,Giti Health Centre,Health Centre,Public,-1.788,30.2223,GPS
+Rwanda,North,Janja Health Centre,Health Centre,Public,-1.6823,29.6748,GPS
+Rwanda,North,Kabere Health Centre,Health Centre,Public,-1.5553,29.5945,GPS
+Rwanda,North,Kajevuba Health Centre,Health Centre,Public,-1.8089,30.1262,GPS
+Rwanda,North,Kamubuga Health Centre,Health Centre,Public,-1.5892,29.7942,GPS
+Rwanda,North,Karambo (gakenke) Health Centre,Health Centre,Public,-1.6303,29.8401999999999,GPS
+Rwanda,North,Karwasa Health Centre,Health Centre,Public,-1.4896,29.6762,GPS
+Rwanda,North,Kidomo Health Post,Health Post,Public,-1.5781,29.8162999999999,GPS
+Rwanda,North,Kigogo Health Centre,Health Centre,Public,-1.5933,30.0096999999999,GPS
+Rwanda,North,Kimonyi Health Centre,Health Centre,Public,-1.5123,29.5988,Google Earth
+Rwanda,North,Kinigi Health Centre,Health Centre,Public,-1.449,29.5824,GPS
+Rwanda,North,Kinihira (Rulindo) Health Centre,Health Centre,Public,-1.661,29.9884999999999,GPS
+Rwanda,North,Kinihira Provincial Hospital,Provincial Hospital,Public,-1.6619,29.9886,GPS
+Rwanda,North,Kinini Health Centre,Health Centre,Public,-1.7726,29.9327,GPS
+Rwanda,North,Kinoni Health Centre,Health Centre,Public,-1.4376,29.7279,GPS
+Rwanda,North,Kinyababa Health Centre,Health Centre,Public,-1.368,29.8126,GPS
+Rwanda,North,Kirambo (burera) Health Centre,Health Centre,Public,-1.4932,29.8336,GPS
+Rwanda,North,Kisaro Health Centre,Health Centre,Public,-1.6199,30.0276,GPS
+Rwanda,North,Kivuye Health Centre,Health Centre,Public,-1.4921,29.9313,GPS
+Rwanda,North,Kiyanza Health Centre,Health Centre,Public,-1.7602,30.0660999999999,GPS
+Rwanda,North,Manyagiro Health Centre,Health Centre,Public,-1.5185,30.0015,GPS
+Rwanda,North,Marembo Health Centre,Health Centre,Public,-1.6205,29.9093,GPS
+Rwanda,North,Mariba Health Post,Health Post,Public,-1.4916,29.7975999999999,GPS
+Rwanda,North,Masoro Health Centre,Health Centre,Public,-1.8208,30.0601999999999,GPS
+Rwanda,North,Mataba Health Centre,Health Centre,Public,-1.7198,29.7436,GPS
+Rwanda,North,Minazi Health Centre,Health Centre,Public,-1.7608,29.7702999999999,Google Earth
+Rwanda,North,Miyove Health Centre,Health Centre,Public,-1.616,29.9790999999999,GPS
+Rwanda,North,Mucaca Health Centre,Health Centre,Public,-1.389,29.67,GPS
+Rwanda,North,Mugunga Health Post,Health Post,Public,-1.6972,29.6481999999999,GPS
+Rwanda,North,Muhondo (gakenke) Health Centre,Health Centre,Public,-1.8,29.8953999999999,GPS
+Rwanda,North,Muhondo (kageyo) Health Centre,Health Centre,Public,-1.628,30.0856999999999,GPS
+Rwanda,North,Muhoza (Ruhengeri) Health Centre,Health Centre,Public,-1.5,29.6366,GPS
+Rwanda,North,Mukarange (Gicumbi) Health Centre,Health Centre,Public,-1.5276,30.076,Google Earth
+Rwanda,North,Muko Health Centre,Health Centre,Public,-1.697,30.2282,GPS
+Rwanda,North,Mukono Health Centre,Health Centre,Public,-1.5636,30.1084,GPS
+Rwanda,North,Mulindi (gicumbi) Health Centre,Health Centre,Public,-1.478,30.0428,GPS
+Rwanda,North,Munyinya Health Centre,Health Centre,Public,-1.6446,30.1354,GPS
+Rwanda,North,Murambi Health Centre,Health Centre,Public,-1.7927,30.044,GPS
+Rwanda,North,Murandi Health Centre,Health Centre,Public,-1.547,29.7292999999999,GPS
+Rwanda,North,Musanze Health Centre,Health Centre,Public,-1.4956,29.6221,Geonames
+Rwanda,North,Musenyi (gicumbi) Health Centre,Health Centre,Public,-1.705,30.0989,GPS
+Rwanda,North,Mushongi Health Centre,Health Centre,Public,-1.649,29.913,Geonames
+Rwanda,North,Muyanza Health Centre,Health Centre,Public,-1.6984,30.0286,GPS
+Rwanda,North,Muyongwe Health Centre,Health Centre,Public,-1.7202,29.878,Google Earth
+Rwanda,North,Ndongozi Health Centre,Health Centre,Public,-1.5456,29.8425,GPS
+Rwanda,North,Nemba District Hospital,District Hospital,Public,-1.6377,29.7867,GPS
+Rwanda,North,Nemba Health Centre,Health Centre,Public,-1.638,29.7865,GPS
+Rwanda,North,Nganzo Health Centre,Health Centre,Public,-1.664,29.7899999999999,Other
+Rwanda,North,Ntaruka (kinoni Burera) Health Centre,Health Centre,Public,-1.476,29.7479,GPS
+Rwanda,North,Nyakinama Health Centre,Health Centre,Public,-1.5798,29.6348999999999,GPS
+Rwanda,North,Nyamugali Health Centre,Health Centre,Public,-1.6039,29.8828999999999,GPS
+Rwanda,North,Nyange (ruli) Health Centre,Health Centre,Public,-1.8011,29.7907,GPS
+Rwanda,North,Nyarubuye (musanze) Health Post,Health Post,Public,-1.4854,29.5654,GPS
+Rwanda,North,Nyundo (gakenke) Health Centre,Health Centre,Public,-1.6039,29.6585,GPS
+Rwanda,North,Remera-mbogo Health Centre,Health Centre,Public,-1.786,30.0029,GPS
+Rwanda,North,Rubaya (gicumbi) Health Centre,Health Centre,Public,-1.4639,29.9968,GPS
+Rwanda,North,Rugarama Health Centre,Health Centre,Public,-1.407,29.7364,Google Earth
+Rwanda,North,Ruhenda Health Centre,Health Centre,Public,-1.554,30.0446999999999,GPS
+Rwanda,North,Ruhengeri Referral Hospital,Referral Hospital,Public,-1.5058,29.6367,GPS
+Rwanda,North,Ruhinga Health Post,Health Post,Public,-1.6322,29.7544,GPS
+Rwanda,North,Ruhombo Health Centre,Health Centre,Public,-1.51,29.774,GPS
+Rwanda,North,Ruhunde Health Centre,Health Centre,Public,-1.5733,29.9416,GPS
+Rwanda,North,Rukozo Health Centre,Health Centre,Public,-1.6236,29.948,GPS
+Rwanda,North,Rukura Health Centre,Health Centre,Public,-1.696,29.8292,GPS
+Rwanda,North,Ruli District Hospital,District Hospital,Public,-1.8296,29.8493999999999,GPS
+Rwanda,North,Ruli Health Centre,Health Centre,Public,-1.7128,29.8614,GPS
+Rwanda,North,Rulindo Health Centre,Health Centre,Public,-1.7253,29.9307,GPS
+Rwanda,North,Rusasa Health Centre,Health Centre,Public,-1.4511,29.8704,GPS
+Rwanda,North,Rushaki Health Centre,Health Centre,Public,-1.455,30.0914,GPS
+Rwanda,North,Rushashi Health Centre,Health Centre,Public,-1.7259,29.8581,GPS
+Rwanda,North,Rusoro Health Centre,Health Centre,Public,-1.7123,29.6795,GPS
+Rwanda,North,Rutake Health Centre,Health Centre,Public,-1.673,29.7234,GPS
+Rwanda,North,Rutare (gicumbi) Health Centre,Health Centre,Public,-1.7307,30.1770999999999,GPS
+Rwanda,North,Rutenderi Health Centre,Health Centre,Public,-1.6665,29.852,GPS
+Rwanda,North,Rutonde Health Centre,Health Centre,Public,-1.8984,29.9671999999999,GPS
+Rwanda,North,Rutonde Secondary Health Post,Secondary Health Post,Public,-1.8948,29.9716999999999,Geonames
+Rwanda,North,Rutongo District Hospital,District Hospital,Public,-1.8148,30.0597999999999,GPS
+Rwanda,North,Ruvune Health Centre,Health Centre,Public,-1.7284,30.1789999999999,Geonames
+Rwanda,North,Rwahi Health Centre,Health Centre,Public,-1.8602,29.9224,GPS
+Rwanda,North,Rwankuba Health Centre,Health Centre,Public,-1.7587,29.8639,GPS
+Rwanda,North,Rwaza Health Centre,Health Centre,Public,-1.545,29.693,GPS
+Rwanda,North,Rwerere Health Centre,Health Centre,Public,-1.5014,29.8694999999999,GPS
+Rwanda,North,Rwesero Health Centre,Health Centre,Public,-1.7993,30.1766,GPS
+Rwanda,North,Sereri Health Post,Health Post,Public,-1.5853,29.7542,GPS
+Rwanda,North,Shingiro Health Centre,Health Centre,Public,-1.5,29.5524999999999,GPS
+Rwanda,North,Shyorongi Health Centre,Health Centre,Public,-1.8661,29.9805999999999,GPS
+Rwanda,North,Shyorongi Secondary Health Post,Secondary Health Post,Public,-1.8544,29.9623999999999,Geonames
+Rwanda,North,Tanda Health Centre,Health Centre,Public,-1.7998,30.2621,GPS
+Rwanda,North,Tare Health Centre,Health Centre,Public,-1.6646,29.8881,GPS
+Rwanda,North,Tumba Health Centre,Health Centre,Public,-1.7024,29.9444,GPS
+Rwanda,South,Agahabwa Health Centre,Health Centre,Public,-2.7517,29.7384999999999,Other
+Rwanda,South,Bugarama Health Post,Health Post,Public,-2.4535,29.4899999999999,GPS
+Rwanda,South,Bukomeye (Mukura) Fosacom Community-owned health facility,Health Post,CBO,-2.6603,29.7469,Geonames
+Rwanda,South,Buramba Health Centre,Health Centre,Public,-1.966,29.7162,GPS
+Rwanda,South,Buruhukiro Health Centre,Health Centre,Public,-2.4509,29.3619999999999,GPS
+Rwanda,South,Busoro Health Centre,Health Centre,Public,-2.2896,29.9304999999999,GPS
+Rwanda,South,Busoro-Gishamvu Health Centre,Health Centre,Public,-2.6654,29.693,GPS
+Rwanda,South,Butare (CUSP) Health Centre,Health Centre,Public,-2.6082,29.7405,GPS
+Rwanda,South,Butare CHU National Referral Hospital,National Referral Hospital,Public,-2.612,29.7351999999999,GPS
+Rwanda,South,Byimana Health Centre,Health Centre,Public,-2.156,29.7434,GPS
+Rwanda,South,Coko Health Centre,Health Centre,Public,-2.7161,29.5802,GPS
+Rwanda,South,Cyahinda Health Centre,Health Centre,Public,-2.7408,29.6091,GPS
+Rwanda,South,Cyanika (Nyamagabe) Health Centre,Health Centre,Public,-2.4406,29.6032,GPS
+Rwanda,South,Cyaratsi Health Centre,Health Centre,Public,-2.3858,29.7144,GPS
+Rwanda,South,Cyeru Health Centre,Health Centre,Public,-2.1873,29.9695,GPS
+Rwanda,South,Gahombo Health Centre,Health Centre,Public,-2.2933,29.8225,GPS
+Rwanda,South,Gakoma District Hospital,District Hospital,Public,-2.3497,29.9177,GPS
+Rwanda,South,Gakoma Health Centre,Health Centre,Public,-2.3497,29.9177,GPS
+Rwanda,South,Gasagara (ex-birehe) Health Centre,Health Centre,Public,-1.7365,29.6896999999999,GPS
+Rwanda,South,Gasovu Health Centre,Health Centre,Public,-1.912,29.7943,GPS
+Rwanda,South,Gatagara (Nyanza) Health Centre,Health Centre,Public,-2.2963,29.7471999999999,GPS
+Rwanda,South,Gihara Health Centre,Health Centre,Public,-1.944,29.9615,GPS
+Rwanda,South,Gikomero (Kabgayi) Health Centre,Health Centre,Public,-2.0501,29.6710999999999,Geonames
+Rwanda,South,Gikonko (Gisagara) Health Centre,Health Centre,Public,-2.484,29.8552,GPS
+Rwanda,South,Gikore Health Centre,Health Centre,Public,-2.7328,29.7941,GPS
+Rwanda,South,Gisagara Health Centre,Health Centre,Public,-2.599,29.8379,GPS
+Rwanda,South,Gishubi Health Centre,Health Centre,Public,-2.5856,29.8734,GPS
+Rwanda,South,Gishweru Health Centre,Health Centre,Public,-2.1258,29.6557,GPS
+Rwanda,South,Gitarama Health Centre,Health Centre,Public,-2.075,29.7813,GPS
+Rwanda,South,Gitega (Kibangu) Health Centre,Health Centre,Public,-1.8489,29.6918,GPS
+Rwanda,South,Gitovu (Kinazi) Fosacom Community-owned health facility,Health Post,CBO,-2.4138,29.8186,Geonames
+Rwanda,South,Gitwe District Hospital,District Hospital,Public,-2.247,29.6892999999999,GPS
+Rwanda,South,Gitwe Health Centre,Health Centre,Public,-2.241,29.69,GPS
+Rwanda,South,Hanika I (Nyanza) Health Centre,Health Centre,Public,-2.3425,29.7576,GPS
+Rwanda,South,Jenda (Nyamagabe) Health Centre,Health Centre,Public,-2.2859,29.5732,GPS
+Rwanda,South,Kabgayi District Hospital,District Hospital,Public,-2.1045,29.7505999999999,GPS
+Rwanda,South,Kabgayi Health Centre,Health Centre,Public,-2.1018,29.7525,GPS
+Rwanda,South,Kabilizi Health Centre,Health Centre,Public,-2.641,29.6234,GPS
+Rwanda,South,Kabuga (Ntamba Kamonyi) Health Centre,Health Centre,Public,-1.8849,29.9377999999999,GPS
+Rwanda,South,Kabuga (Rugango) Health Post,Health Post,Public,-2.2128,29.927,Geonames
+Rwanda,South,Kabutare District Hospital,District Hospital,Public,-2.6073,29.7472999999999,GPS
+Rwanda,South,Kaduha District Hospital,District Hospital,Public,-2.3333,29.5261999999999,GPS
+Rwanda,South,Kaduha Health Centre,Health Centre,Public,-2.333,29.5248999999999,GPS
+Rwanda,South,Kamonyi (gacurabwenge) Health Centre,Health Centre,Public,-2.0044,29.9056,GPS
+Rwanda,South,Kansi Health Centre,Health Centre,Public,-2.7012,29.7508,GPS
+Rwanda,South,Karama (huye) Health Centre,Health Centre,Public,-2.6121,29.6436999999999,GPS
+Rwanda,South,Karambi (ruhango) Health Centre,Health Centre,Public,-2.2255,29.6506,GPS
+Rwanda,South,Karangara Health Centre,Health Centre,Public,-1.8973,29.8997999999999,GPS
+Rwanda,South,Kayenzi Health Centre,Health Centre,Public,-1.9096,29.8548,GPS
+Rwanda,South,Kibayi Health Centre,Health Centre,Public,-2.732,29.8593,GPS
+Rwanda,South,Kibeho Health Centre,Health Centre,Public,-2.646,29.5532,GPS
+Rwanda,South,Kibilizi (gisagara) Health Centre,Health Centre,Public,-2.6491,29.783,GPS
+Rwanda,South,Kibilizi (nyanza) Health Centre,Health Centre,Public,-2.3857,29.8948,GPS
+Rwanda,South,Kibilizi District Hospital,District Hospital,Public,-2.6486,29.7834,GPS
+Rwanda,South,Kibirizi (Nyamagabe) Health Centre,Health Centre,Public,-2.4349,29.5599999999999,GPS
+Rwanda,South,Kibumbwe Health Centre,Health Centre,Public,-2.4013,29.4497,GPS
+Rwanda,South,Kigembe Health Centre,Health Centre,Public,-2.78,29.7371,GPS
+Rwanda,South,Kigeme District Hospital,District Hospital,Public,-2.4793,29.5258,GPS
+Rwanda,South,Kigeme Health Centre,Health Centre,Public,-2.4799,29.5257,GPS
+Rwanda,South,Kigese Health Centre,Health Centre,Public,-2.0146,29.9727999999999,GPS
+Rwanda,South,Kigoma Health Centre,Health Centre,Public,-2.2618,29.7927,GPS
+Rwanda,South,Kinazi Health Centre,Health Centre,Public,-2.1926,29.9045999999999,GPS
+Rwanda,South,Kinyamakara Health Centre,Health Centre,Public,-2.4728,29.6484999999999,GPS
+Rwanda,South,Kirambi Health Centre,Health Centre,Public,-2.4124,29.6615,GPS
+Rwanda,South,Kirarambogo Health Centre,Health Centre,Public,-2.6206,29.8998999999999,GPS
+Rwanda,South,Kitabi Health Centre,Health Centre,Public,-2.5211,29.4274999999999,GPS
+Rwanda,South,Kivu Health Centre,Health Centre,Public,-2.6159,29.4598,GPS
+Rwanda,South,Kivumu (muhanga) Health Centre,Health Centre,Public,-2.0477,29.8044,GPS
+Rwanda,South,Kizibere Health Centre,Health Centre,Public,-2.172,29.8186,GPS
+Rwanda,South,Maraba (huye) Health Centre,Health Centre,Public,-2.5229,29.6351,GPS
+Rwanda,South,Maraba (nyaruguru) Health Centre,Health Centre,Public,-2.7374,29.6456,GPS
+Rwanda,South,Mata Health Centre,Health Centre,Public,-2.0405,29.7414999999999,Geonames
+Rwanda,South,Matyazo Health Centre,Health Centre,Public,-2.5975,29.7204,GPS
+Rwanda,South,Mbazi Health Centre,Health Centre,Public,-2.551,29.7458999999999,GPS
+Rwanda,South,Mbuga Health Centre,Health Centre,Public,-2.497,29.4806999999999,GPS
+Rwanda,South,Mbuye Health Centre,Health Centre,Public,-2.1312,29.8478999999999,GPS
+Rwanda,South,Mucubira Health Centre,Health Centre,Public,-2.2956,29.6424999999999,GPS
+Rwanda,South,Mugano Health Centre,Health Centre,Public,-2.2644,29.5085,GPS
+Rwanda,South,Muganza Health Centre,Health Centre,Public,-2.6881,29.4941999999999,GPS
+Rwanda,South,Mugina Health Centre,Health Centre,Public,-2.108,29.9465,GPS
+Rwanda,South,Mugombwa Health Centre,Health Centre,Public,-2.679,29.8600999999999,GPS
+Rwanda,South,Mukoma (ruhango) Health Centre,Health Centre,Public,-2.2014,29.9457999999999,GPS
+Rwanda,South,Mukura (Huye) Health Centre,Health Centre,Public,-2.6461,29.7494,Geonames
+Rwanda,South,Munanira Health Centre,Health Centre,Public,-2.2124,29.6097,GPS
+Rwanda,South,Munini (nyaruguru) Health Centre,Health Centre,Public,-2.7137,29.5354999999999,GPS
+Rwanda,South,Munini District Hospital,District Hospital,Public,-2.7134,29.5354999999999,GPS
+Rwanda,South,Muremera (ruhango) Health Post,Health Post,Public,-2.2111,29.6107,Geonames
+Rwanda,South,Muremure Health Centre,Health Centre,Public,-2.1546,29.62,GPS
+Rwanda,South,Musambira Health Centre,Health Centre,Public,-2.048,29.8441,GPS
+Rwanda,South,Musebeya Health Centre,Health Centre,Public,-2.425,29.4462,GPS
+Rwanda,South,Musha (gisagara) Health Centre,Health Centre,Public,-2.5353,29.8593,GPS
+Rwanda,South,Mushishiro Health Centre,Health Centre,Public,-2.0028,29.6845,GPS
+Rwanda,South,Mushubi Health Centre,Health Centre,Public,-2.348,29.4448,GPS
+Rwanda,South,Mututu Health Centre,Health Centre,Public,-2.3385,29.9378999999999,Geonames
+Rwanda,South,Muyunzwe Health Centre,Health Centre,Public,-2.1677,29.6612,GPS
+Rwanda,South,Mwendo (Gitwe) Health Centre,Health Centre,Public,-2.1637,29.6887,GPS
+Rwanda,South,Mwendo (Ruhango) Health Post,Health Post,Public,-2.1636,29.6933,Geonames
+Rwanda,South,Mweya Health Centre,Health Centre,Public,-2.3315,29.6426,GPS
+Rwanda,South,Ngara Health Centre,Health Centre,Public,-2.387,29.6041999999999,GPS
+Rwanda,South,Ngera Health Centre,Health Centre,Public,-2.7135,29.6865999999999,GPS
+Rwanda,South,Ngoma Health Centre,Health Centre,Public,-2.7435,29.6969999999999,GPS
+Rwanda,South,Ntyazo Health Centre,Health Centre,Public,-2.428,29.8854,GPS
+Rwanda,South,Nyabikenke Health Centre,Health Centre,Public,-1.882,29.7698,GPS
+Rwanda,South,Nyabimata Health Centre,Health Centre,Public,-2.6895,29.4444,GPS
+Rwanda,South,Nyabinoni Health Centre,Health Centre,Public,-1.773,29.6832999999999,GPS
+Rwanda,South,Nyagihamba Health Centre,Health Centre,Public,-2.0919,29.8661999999999,GPS
+Rwanda,South,Nyamagabe Health Centre,Health Centre,Public,-2.483,29.584,GPS
+Rwanda,South,Nyamiyaga (Kamonyi) Health Centre,Health Centre,Public,-1.8981,29.9043999999999,Geonames
+Rwanda,South,Nyamiyaga (Nyanza) Health Centre,Health Centre,Public,-2.3454,29.8724999999999,GPS
+Rwanda,South,Nyamure Health Centre,Health Centre,Public,-2.349,29.8481999999999,GPS
+Rwanda,South,Nyamyumba Health Centre,Health Centre,Public,-2.5833,29.5555999999999,GPS
+Rwanda,South,Nyantanga Health Centre,Health Centre,Public,-2.728,29.6529999999999,GPS
+Rwanda,South,Nyanza District Hospital,District Hospital,Public,-2.3526,29.7493,GPS
+Rwanda,South,Nyanza Health Centre,Health Centre,Public,-2.3525,29.7486999999999,GPS
+Rwanda,South,Nyarurama Health Centre,Health Centre,Public,-2.2445,29.8738999999999,GPS
+Rwanda,South,Nyarusange (muhanga) Health Centre,Health Centre,Public,-2.0921,29.6838,GPS
+Rwanda,South,Nyarusange (nyanza) Health Centre,Health Centre,Public,-2.3495,29.6892,GPS
+Rwanda,South,Nyarusiza Health Centre,Health Centre,Public,-2.527,29.5776,GPS
+Rwanda,South,Nyarwungo Health Centre,Health Centre,Public,-2.2962,29.4086,GPS
+Rwanda,South,Rango Health Centre,Health Centre,Public,-2.6388,29.7457999999999,GPS
+Rwanda,South,Remera Rukoma District Hospital,District Hospital,Public,-1.9387,29.9099,GPS
+Rwanda,South,Remera Rukoma Health Centre,Health Centre,Public,-2.0186,29.9727,Geonames
+Rwanda,South,Rubona (huye) Health Centre,Health Centre,Public,-2.477,29.7682,GPS
+Rwanda,South,Rugege Health Centre,Health Centre,Public,-2.3683,29.3813999999999,GPS
+Rwanda,South,Rugendabali Health Centre,Health Centre,Public,-1.9485,29.6959,Geonames
+Rwanda,South,Ruhango Health Centre,Health Centre,Public,-2.22,29.7814,GPS
+Rwanda,South,Ruhango Provincial Hospital,Provincial Hospital,Public,-2.1937,29.9055,GPS
+Rwanda,South,Ruhashya Health Centre,Health Centre,Public,-2.4797,29.7292999999999,GPS
+Rwanda,South,Ruheru Health Centre,Health Centre,Public,-2.7476,29.454,GPS
+Rwanda,South,Runyombyi Health Centre,Health Centre,Public,-2.7798,29.535,GPS
+Rwanda,South,Ruramba Health Centre,Health Centre,Public,-2.5597,29.5396,GPS
+Rwanda,South,Rusatira-kinazi Health Centre,Health Centre,Public,-2.4318,29.7744,GPS
+Rwanda,South,Rutobwe Health Centre,Health Centre,Public,-1.9744,29.8001,GPS
+Rwanda,South,Ruyenzi Health Centre,Health Centre,Public,-2.4249,29.8301,GPS
+Rwanda,South,Rwaniro Health Centre,Health Centre,Public,-2.4589,29.7151,GPS
+Rwanda,South,Save Health Centre,Health Centre,Public,-2.5459,29.7714,GPS
+Rwanda,South,Shaba (Nyamagabe) Health Centre,Health Centre,Public,-2.5819,29.4636,Geonames
+Rwanda,South,Shyogwe Health Centre,Health Centre,Public,-2.1257,29.7775,GPS
+Rwanda,South,Simbi Health Centre,Health Centre,Public,-2.5137,29.6674,GPS
+Rwanda,South,Sovu Health Centre,Health Centre,Public,-2.5638,29.7246999999999,GPS
+Rwanda,South,Uwinkingi Health Centre,Health Centre,Public,-2.4709,29.4497,GPS
+Rwanda,West,Arusha Health Centre,Health Centre,Public,-1.6739,29.4121999999999,GPS
+Rwanda,West,Bigogwe Health Centre,Health Centre,Public,-1.6244,29.4237,GPS
+Rwanda,West,Bigugu Health Centre,Health Centre,Public,-2.1886,29.3680999999999,Geonames
+Rwanda,West,Biguhu Health Centre,Health Centre,Public,-2.2228,29.4892,GPS
+Rwanda,West,Birambo Health Centre,Health Centre,Public,-2.1447,29.5220999999999,GPS
+Rwanda,West,Birembo Health Centre,Health Centre,Public,-1.6917,29.5250999999999,GPS
+Rwanda,West,Biruyi Health Centre,Health Centre,Public,-1.851,29.3164,GPS
+Rwanda,West,Bisesero (Karongi) Health Centre,Health Centre,Public,-2.1776,29.3358999999999,GPS
+Rwanda,West,Bitenga Health Centre,Health Centre,Public,-1.8477,29.4095,GPS
+Rwanda,West,Bubazi Health Centre,Health Centre,Public,-2.0727,29.4323,GPS
+Rwanda,West,Bugarama (Rusizi) Health Centre,Health Centre,Public,-2.643,29.0112999999999,GPS
+Rwanda,West,Bugeshi Health Centre,Health Centre,Public,-1.5377,29.3675999999999,GPS
+Rwanda,West,Bungwe (Ngororero) Fosacom Community-owned health facility,Health Post,CBO,-1.9141,29.4818,Combination
+Rwanda,West,Busasamana Health Centre,Health Centre,Public,-1.604,29.3448999999999,GPS
+Rwanda,West,Bushenge Health Centre,Health Centre,Public,-2.449,28.9854999999999,GPS
+Rwanda,West,Bushenge Provincial Hospital,Provincial Hospital,Public,-2.4451,28.9858,GPS
+Rwanda,West,Busigari Health Centre,Health Centre,Public,-1.639,29.2935,Geonames
+Rwanda,West,Bweyeye Health Centre,Health Centre,Public,-2.6179,29.2139999999999,GPS
+Rwanda,West,Byahi (Rubavu) Health Centre,Health Centre,Public,-1.6631,29.2646,GPS
+Rwanda,West,Crete Congo Nil Health Centre,Health Centre,Public,-1.964,29.3859999999999,GPS
+Rwanda,West,Cyimbili Health Centre,Health Centre,Public,-1.8277,29.2926,GPS
+Rwanda,West,Cyivugiza (Nyamasheke) Health Centre,Health Centre,Public,-2.2974,29.2571,Geonames
+Rwanda,West,Gacuba Ii Health Centre,Health Centre,Public,-1.6794,29.2641999999999,GPS
+Rwanda,West,Gakamba Health Centre,Health Centre,Public,-1.7318,29.4883999999999,GPS
+Rwanda,West,Gashonyi Health Centre,Health Centre,CBO,-1.7626,29.6477,GPS
+Rwanda,West,Gashubi Health Centre,Health Centre,Public,-1.9763,29.55,GPS
+Rwanda,West,Gasiza Fosacom Community-owned health facility,Health Post,CBO,-1.8183,29.5081999999999,GPS
+Rwanda,West,Gatare (Macuba) Health Centre,Health Centre,Public,-2.3016,29.2153999999999,GPS
+Rwanda,West,Gatare (Twumba) Health Centre,Health Centre,Public,-2.2256,29.3095,GPS
+Rwanda,West,Gatumba Fosacom Community-owned health facility,Health Post,CBO,-1.929,29.6480999999999,GPS
+Rwanda,West,Giheke Health Centre,Health Centre,Public,-2.4744,28.9711,GPS
+Rwanda,West,Gihundwe District Hospital,District Hospital,Public,-2.483,28.9147,GPS
+Rwanda,West,Gihundwe Health Centre,Health Centre,Public,-2.4832,28.9148,GPS
+Rwanda,West,Gikundamvura Health Centre,Health Centre,Public,-2.6268,29.0429999999999,Geonames
+Rwanda,West,Gisakura Health Centre,Health Centre,Public,-2.453,29.0881,GPS
+Rwanda,West,Gisenyi District Hospital,District Hospital,Public,-1.7021,29.2623,GPS
+Rwanda,West,Gisenyi Health Centre,Health Centre,Public,-1.7114,29.2626999999999,GPS
+Rwanda,West,Gisovu Health Centre,Health Centre,Public,-2.2345,29.3596,GPS
+Rwanda,West,Hanika (Nyamasheke) Health Centre,Health Centre,Public,-2.2914,29.1880999999999,GPS
+Rwanda,West,Hindiro Health Centre,Health Centre,CBO,-1.8119,29.6197,GPS
+Rwanda,West,Islamic (Bugarama) Health Centre,Health Centre,Public,-2.6955,29.0122,GPS
+Rwanda,West,Iwawa Health Centre,Health Centre,Public,-1.9307,29.1459,Google Earth
+Rwanda,West,Jenda (Nyabihu) Health Post,Health Post,Public,-1.6264,29.4697,GPS
+Rwanda,West,Jomba Health Centre,Health Centre,Public,-1.7094,29.5947999999999,GPS
+Rwanda,West,Kabari (Rubavu) Health Centre,Health Centre,Public,-1.6423,29.3839,GPS
+Rwanda,West,Kabatwa Health Centre,Health Centre,Public,-1.5496,29.3924999999999,GPS
+Rwanda,West,Kabaya District Hospital,District Hospital,Public,-1.7472,29.5372999999999,GPS
+Rwanda,West,Kabaya Health Centre,Health Centre,Public,-1.7473,29.5379,GPS
+Rwanda,West,Kabona Health Centre,Health Centre,Public,-1.9436,29.4876,GPS
+Rwanda,West,Kageyo (ngororero) Health Centre,Health Centre,CBO,-1.871,29.5914,GPS
+Rwanda,West,Kamonyi (ruharambuga) Health Centre,Health Centre,Public,-2.4465,29.0207,GPS
+Rwanda,West,Karambi (nyamasheke) Health Centre,Health Centre,Public,-2.3139,29.2479,GPS
+Rwanda,West,Karambo (rubavu) Health Centre,Health Centre,Public,-1.7166,29.3774,GPS
+Rwanda,West,Kareba Health Centre,Health Centre,Public,-1.5834,29.4762999999999,GPS
+Rwanda,West,Karengera Health Centre,Health Centre,Public,-2.2608,29.2219,GPS
+Rwanda,West,Karora Health Centre,Health Centre,Public,-2.087,29.2908,GPS
+Rwanda,West,Karumbi Health Centre,Health Centre,Public,-1.8649,29.4512,GPS
+Rwanda,West,Kayove Health Centre,Health Centre,Public,-1.8872,29.3436999999999,GPS
+Rwanda,West,Kibingo (nyamasheke) Health Centre,Health Centre,Public,-2.1995,29.2611999999999,GPS
+Rwanda,West,Kibingo (rutsiro) Health Centre,Health Centre,Public,-1.9964,29.3571999999999,GPS
+Rwanda,West,Kibogora District Hospital,District Hospital,Public,-2.3262,29.1322,GPS
+Rwanda,West,Kibogora Health Centre,Health Centre,Public,-2.3307,29.1373,GPS
+Rwanda,West,Kibuye Health Centre,Health Centre,Public,-2.068,29.3453,GPS
+Rwanda,West,Kibuye Referral Hospital,Referral Hospital,Public,-2.067,29.3462999999999,GPS
+Rwanda,West,Kigufi Health Centre,Health Centre,Public,-1.751,29.2786,GPS
+Rwanda,West,Kinihira (rutsiro) Health Centre,Health Centre,Public,-1.832,29.3463999999999,GPS
+Rwanda,West,Kintobo Health Centre,Health Centre,Public,-1.6059,29.5520999999999,GPS
+Rwanda,West,Kinunu Health Centre,Health Centre,Public,-1.9078,29.2944,GPS
+Rwanda,West,Kirambo (gitesi) Health Centre,Health Centre,Public,-2.1117,29.4219,GPS
+Rwanda,West,Kirinda District Hospital,District Hospital,Public,-1.9349,29.6252999999999,GPS
+Rwanda,West,Kirinda Health Centre,Health Centre,Public,-2.1854,29.5768999999999,GPS
+Rwanda,West,Kivumu (rutsiro) Health Centre,Health Centre,Public,-1.7767,29.3206999999999,GPS
+Rwanda,West,Kiziguro (ngororero) Fosacom Community-owned health facility,Health Post,CBO,-1.7866,29.6614,Geonames
+Rwanda,West,Kora Health Centre,Health Centre,Public,-1.6129,29.4493,GPS
+Rwanda,West,Mabuye Fosacom Community-owned health facility,Health Post,CBO,-1.9152,29.5189999999999,GPS
+Rwanda,West,Mahembe Health Centre,Health Centre,Public,-2.2224,29.2840999999999,GPS
+Rwanda,West,Mashesha Health Centre,Health Centre,Public,-2.5968,29.0073,GPS
+Rwanda,West,Mibilizi District Hospital,District Hospital,Public,-2.5676,28.9537,GPS
+Rwanda,West,Mibilizi Health Centre,Health Centre,Public,-2.568,28.9543,GPS
+Rwanda,West,Mont Cyangugu Health Centre,Health Centre,Public,-2.4708,28.9131,Google Earth
+Rwanda,West,Mpembe Health Centre,Health Centre,Public,-2.1178,29.2654999999999,GPS
+Rwanda,West,Mubuga Health Centre,Health Centre,Public,-2.133,29.3142,GPS
+Rwanda,West,Mudende Health Centre,Health Centre,Public,-1.6043,29.3767999999999,GPS
+Rwanda,West,Mugera Health Centre,Health Centre,Public,-2.3903,29.0351,GPS
+Rwanda,West,Mugonero District Hospital,District Hospital,Public,-2.1808,29.2927,GPS
+Rwanda,West,Mugonero Health Centre,Health Centre,Public,-2.1822,29.2928999999999,GPS
+Rwanda,West,Muhororo District Hospital,District Hospital,Public,-1.9349,29.6252999999999,GPS
+Rwanda,West,Muhororo Health Centre,Health Centre,Public,-1.9335,29.6267999999999,GPS
+Rwanda,West,Mukoma (nyamasheke) Health Centre,Health Centre,Public,-2.3632,29.0115,GPS
+Rwanda,West,Mukungu Health Centre,Health Centre,Public,-2.213,29.4239,GPS
+Rwanda,West,Mukura Health Centre,Health Centre,Public,-2.0084,29.4868999999999,GPS
+Rwanda,West,Munzanga Health Centre,Health Centre,Public,-2.114,29.5835,GPS
+Rwanda,West,Muramba Health Centre,Health Centre,Public,-1.7706,29.6125,GPS
+Rwanda,West,Murara Health Centre,Health Centre,Public,-1.6724,29.2559,GPS
+Rwanda,West,Murunda District Hospital,District Hospital,Public,-1.9068,29.3761,GPS
+Rwanda,West,Murunda Health Centre,Health Centre,Public,-1.9152,29.3767,GPS
+Rwanda,West,Musango Health Centre,Health Centre,Public,-2.1742,29.4361999999999,GPS
+Rwanda,West,Musasa Health Centre,Health Centre,Public,-1.962,29.3487,GPS
+Rwanda,West,Mushaka Health Centre,Health Centre,Public,-2.6377,28.9530999999999,GPS
+Rwanda,West,Mushubati Health Centre,Health Centre,Public,-2.0127,29.3998999999999,GPS
+Rwanda,West,Mutaho (nyabihu) Health Post,Health Post,Public,-1.6811,29.4695,GPS
+Rwanda,West,Muyange Health Centre,Health Centre,Public,-2.3335,29.0223,GPS
+Rwanda,West,Mwendo (karongi) Health Centre,Health Centre,Public,-2.1849,29.5104,GPS
+Rwanda,West,Mwezi Health Centre,Health Centre,Public,-2.5206,29.0304,GPS
+Rwanda,West,Mwiyanike Health Centre,Health Centre,Public,-1.656,29.5118,GPS
+Rwanda,West,Ndaro Fosacom Community-owned health facility,Health Post,CBO,-2.0053,29.6083,GPS
+Rwanda,West,Ngange Health Centre,Health Centre,Public,-2.2989,29.2576,GPS
+Rwanda,West,Nkanka Health Centre,Health Centre,Public,-2.4269,28.9288999999999,GPS
+Rwanda,West,Nkombo Health Centre,Health Centre,Public,-2.4054,28.8947,GPS
+Rwanda,West,Nkungu Health Centre,Health Centre,Public,-2.5425,29.0066999999999,GPS
+Rwanda,West,Ntaganzwa Health Centre,Health Centre,Public,-1.899,29.6160999999999,GPS
+Rwanda,West,Ntobwe Health Centre,Health Centre,Public,-1.9765,29.6018,GPS
+Rwanda,West,Nyabirasi Health Centre,Health Centre,Public,-1.7619,29.3493999999999,GPS
+Rwanda,West,Nyabitimbo Health Centre,Health Centre,Public,-2.5601,29.0699,GPS
+Rwanda,West,Nyakabuye Health Centre,Health Centre,Public,-2.5645,29.0274,Google Earth
+Rwanda,West,Nyakarenzo Health Centre,Health Centre,Public,-2.5404,28.9150999999999,GPS
+Rwanda,West,Nyakigezi Health Centre,Health Centre,Public,-1.628,29.6327,GPS
+Rwanda,West,Nyakiliba Health Centre,Health Centre,Public,-1.6313,29.6088999999999,GPS
+Rwanda,West,Nyakiriba Health Centre,Health Centre,Public,-1.6864,29.3502,Geonames
+Rwanda,West,Nyamasheke Health Centre,Health Centre,Public,-2.3412,29.0899,GPS
+Rwanda,West,Nyamisa Fosacom Community-owned health facility,Health Post,CBO,-1.9404,29.6266,Combination
+Rwanda,West,Nyange A Health Centre,Health Centre,Public,-1.8359,29.6463,GPS
+Rwanda,West,Nyange B Health Centre,Health Centre,Public,-2.0533,29.5961,GPS
+Rwanda,West,Nyundo (rubavu) Health Centre,Health Centre,Public,-1.7029,29.3318,GPS
+Rwanda,West,Ramba Health Centre,Health Centre,Public,-1.876,29.5294999999999,GPS
+Rwanda,West,Rambura Health Centre,Health Centre,Public,-1.6795,29.5208,GPS
+Rwanda,West,Rangiro Health Centre,Health Centre,Public,-2.407,29.1663999999999,GPS
+Rwanda,West,Rubaya (ngororera) Health Centre,Health Centre,Public,-1.7765,29.5032,GPS
+Rwanda,West,Rubengera Health Centre,Health Centre,Public,-2.041,29.4131,GPS
+Rwanda,West,Rubona (ngororera) Health Centre,Health Centre,Public,-1.961,29.6524,GPS
+Rwanda,West,Rufungo Health Centre,Health Centre,Public,-2.0677,29.5377,GPS
+Rwanda,West,Rugabano Health Centre,Health Centre,Public,-2.1019,29.4850999999999,GPS
+Rwanda,West,Rugari Fosacom Community-owned health facility,Health Post,CBO,-1.905,29.5446999999999,GPS
+Rwanda,West,Ruheru (kanjongo Nyamasheke) Health Centre,Health Centre,Public,-2.3519,29.17,GPS
+Rwanda,West,Ruhunga Fosacom Community-owned health facility,Health Post,CBO,-1.8644,29.6444,GPS
+Rwanda,West,Rurembo Health Centre,Health Centre,Public,-1.6596,29.5750999999999,GPS
+Rwanda,West,Rusizi Health Centre,Health Centre,Public,-2.493,28.893,GPS
+Rwanda,West,Rususa Health Centre,Health Centre,Public,-1.8409,29.6309,GPS
+Rwanda,West,Rutsiro Health Centre,Health Centre,Public,-1.9152,29.457,GPS
+Rwanda,West,Rwankeri Health Centre,Health Centre,Public,-1.586,29.5344,GPS
+Rwanda,West,Rwinzuki Health Centre,Health Centre,Public,-2.6383,28.9347999999999,Geonames
+Rwanda,West,Shyira District Hospital,District Hospital,Public,-1.682,29.6291,GPS
+Rwanda,West,Shyira Health Centre,Health Centre,Public,-1.679,29.5208,GPS
+Rwanda,West,Yove Health Centre,Health Centre,Public,-2.4066,29.1992,GPS
