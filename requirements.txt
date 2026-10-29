@@ -1,0 +1,7 @@
+pandas
+numpy
+geopandas
+rasterio
+scikit-image
+openpyxl
+pyogrio
