@@ -1,0 +1,112 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>IMBONI | ServiceReach Rwanda</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap">
+<style>
+/* ===== COLORS: edit these values (dark theme) ===== */
+:root{--bg:#0d0f1c;--top:#090b16;--pn:#161a2e;--ink:#eef0fa;--mut:#9aa3c4;--ln:#262c47;--ac:#7c6cf0;--sea:#090b16;--fac:#38d1c9;color-scheme:dark;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+:root[data-theme="dark"]{color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}*{box-sizing:border-box}html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif;display:flex;flex-direction:column}
+header{background:var(--top);border-bottom:1px solid var(--ln);padding:12px 22px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.brand{display:block}.logoimg{height:54px;width:auto;display:block;margin-bottom:2px}.logo{display:flex;align-items:center;font-weight:800;font-size:27px;letter-spacing:.05em;line-height:1;color:#eef0fa}.logo svg{height:1.15em;width:1.85em;margin:0 .06em}
+.tl{color:#7a83a3;font-size:12.5px;font-weight:400;line-height:1.3}
+nav{display:flex;gap:4px;margin-left:auto}nav button{background:none;border:0;color:var(--mut);font:600 14px Inter,system-ui,sans-serif;padding:8px 14px;border-radius:99px;cursor:pointer}
+nav button[aria-current=true]{background:var(--pn);color:var(--ink)}
+button:focus-visible,select:focus-visible,.card:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+main{flex:1;min-height:0;display:flex;position:relative}
+#side{width:440px;max-width:46vw;padding:40px 32px;overflow:auto;display:flex;flex-direction:column;gap:44px}
+.big{font-weight:800;font-size:76px;line-height:1;letter-spacing:-2px}.hero p{font-size:18px;color:var(--mut);margin:14px 0 28px;max-width:28ch}
+.btn{background:var(--ac);color:#fff;border:0;border-radius:10px;padding:13px 20px;font:600 15px Inter,system-ui,sans-serif;cursor:pointer}.btn:hover{filter:brightness(1.1)}
+.ghost{background:none;border:1px solid var(--ln);color:var(--ink);border-radius:10px;padding:9px 14px;font:600 13px Inter,system-ui,sans-serif;cursor:pointer}
+h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);margin:0 0 12px;font-weight:600}
+.card{display:flex;gap:14px;align-items:center;background:var(--pn);border-radius:14px;padding:14px 18px;margin-bottom:10px;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.25)}
+.card:hover{background:#1d2240}.card b{font-size:15px}.card .n{color:var(--ac);font-weight:800;font-size:20px;width:22px}.card .v{margin-left:auto;color:var(--ac);font-size:12px;font-weight:600;white-space:nowrap}.card:hover .v{color:#fff}.card .v{font-size:16px}.card small{display:block;color:var(--mut);font-size:13px}
+.foot{color:var(--mut);font-size:12px;margin-top:auto}
+#mapwrap{flex:1;position:relative;background:var(--sea);min-width:0}.f{r:var(--fr,3px)}.m{r:var(--mr,10px)}.bs{font-size:var(--tx,12px)}svg{width:100%;height:100%;display:block;touch-action:none;cursor:grab}
+.sec{stroke:var(--sea);stroke-width:.7}.sec:hover,.sec.sel{stroke:#fff;stroke-width:2}.sec.dim{opacity:.22}svg.hs .sec:not(.sel){opacity:.4}
+.srch{padding:8px}.srch input{width:100%;background:var(--bg);color:var(--ink);border:1px solid var(--ln);border-radius:8px;padding:9px 11px;font:inherit}#sr{display:none;margin-top:6px;max-height:250px;overflow:auto}#sr button{display:flex;justify-content:space-between;gap:8px;width:100%;text-align:left;background:none;border:0;color:var(--ink);padding:8px;border-radius:6px;font:inherit;cursor:pointer}#sr button:hover,#sr button.on{background:#1d2240}#sr small{color:var(--mut)}.ov{position:absolute;left:16px;top:16px;display:grid;gap:10px;max-width:300px;width:300px}
+.glass{background:rgba(22,26,46,.92);border:1px solid var(--ln);border-radius:12px;padding:12px 14px;box-shadow:0 4px 18px rgba(0,0,0,.35)}
+.glass h3{margin:0;font-size:15px}.glass p{margin:2px 0 0;color:var(--mut);font-size:12px}
+select{width:100%;margin-top:8px;font:inherit;background:var(--bg);color:var(--ink);border:1px solid var(--ln);padding:7px;border-radius:8px}
+label.t{display:flex;gap:8px;align-items:center;font-size:13px;cursor:pointer}
+.lg{position:absolute;left:16px;bottom:16px;width:250px}#mapwrap{display:flex;flex-direction:column}#mapwrap>svg{flex:1;height:auto;min-height:0}.lg{position:static;flex:none;width:340px;max-width:calc(100% - 32px);margin:6px auto 12px}.lt{font-size:12px;line-height:1.3;color:var(--ink)}.r2{display:flex;justify-content:space-between;color:var(--mut);font-size:11px}.bar{height:8px;border-radius:4px;margin:6px 0 3px}.lg div.r{color:var(--mut);font-size:11px}
+#detail,#res{position:absolute;right:16px;bottom:16px;width:300px;display:none}#detail .x{position:absolute;right:8px;top:6px;background:none;border:0;color:var(--mut);font-size:20px;cursor:pointer}
+#detail .big{font-size:44px;letter-spacing:-1px;margin:6px 0 0}#res .big{font-size:56px;letter-spacing:-2px;line-height:1;margin:6px 0 8px}#res{width:360px}.ba{margin:8px 0}.ba td,.ba th{padding:5px 4px;font-size:13px}.ba th{font-size:11px;color:var(--mut)}.ba td:not(:first-child),.ba th:not(:first-child){text-align:right;white-space:nowrap}.chk{color:var(--mut);font-size:12px;margin-top:8px}
+#tip{position:absolute;pointer-events:none;display:none;background:var(--pn);border:1px solid var(--ln);padding:6px 10px;border-radius:8px;font-size:12px;z-index:5}
+.banner{position:absolute;left:332px;right:16px;top:16px;font-weight:600;text-align:center}
+#method{display:none;overflow:auto;flex:1;padding:36px 22px}#method div{max-width:680px;margin:0 auto}#method h1{font-size:34px;margin:0 0 20px}#method h2{font-size:22px;font-weight:800;letter-spacing:-.3px;text-transform:none;color:var(--ink);margin:48px 0 14px;padding-top:24px;border-top:1px solid var(--ln)}#method h1+h2{border-top:0;padding-top:0}.tb{width:100%;border-collapse:collapse;margin:8px 0}.tb td,.tb th{padding:10px 8px;border-bottom:1px solid var(--ln);text-align:left;font-weight:400;vertical-align:top}.tb th{color:var(--mut);font-size:12px}.mut{color:var(--mut);font-size:13px}#method li{color:#cfd5ee;margin:10px 0}
+main[data-view=test] #side,main[data-view=test] .ho,main[data-view=home] .to,main[data-view=method] #side,main[data-view=method] #mapwrap{display:none}main[data-view=method] #method{display:block}
+@media(max-width:820px){.logoimg{height:42px}main{display:block;overflow:auto}#side{width:100%;max-width:none;padding:22px;overflow:visible}#mapwrap{height:78vh}.banner{left:16px;top:150px}#method{overflow:visible}.big{font-size:56px}#detail,#res{width:auto;left:16px}}
+</style></head><body>
+<header><div class="brand"><img class="logoimg" alt="IMBONI" src="/*LOGO*/"><div class="tl">Identifying communities with the greatest health access gaps</div></div>
+<nav><button data-v="home" aria-current="true">Overview</button><button data-v="test" aria-current="false">Test a New Site</button><button data-v="method" aria-current="false">Method &amp; Limits</button></nav></header>
+<main data-view="home">
+<section id="side"><div class="hero"><div class="big" id="hero"></div><p>estimated poor people live over 60 minutes' walk from a health facility</p><button class="btn" id="go">Explore Priority Areas →</button></div>
+<div><h2>Top Priority Sectors</h2><div id="cards"></div></div><div class="foot">Estimates based on the 2022 Census, WorldPop and mapped health facilities. With the EICV7 survey poverty rate the figure is about <span id="alt2"></span> (see Method). For planning discussion only.</div></section>
+<div id="mapwrap"><svg id="sv" role="img" aria-label="Map of Rwanda by sector"></svg>
+<div class="ov"><div class="glass srch"><input id="q" type="search" placeholder="Search a sector or district" autocomplete="off" aria-label="Search a sector or district"><div id="sr"></div></div><div class="glass ho"><h3>Priority Areas</h3><p>Ranked by poor people living more than 60 minutes' walk from a facility (where the need is greatest)</p><select id="prov" aria-label="Province"></select></div>
+<div class="glass"><label class="t"><input type="checkbox" id="fc"> Show health facilities</label></div>
+<div class="glass to"><label class="t"><input type="checkbox" id="bst"> Show the 5 best sites</label><div class="mut" style="margin:4px 0 0 26px">Where one new facility reaches the most people</div><div id="bl" style="display:none"></div></div></div>
+<div class="glass banner to">Click anywhere on the map to place a potential new health facility</div>
+<div class="glass lg"><div class="lt">Poor people living more than 60 minutes' walk from a facility</div><div class="bar" id="bar"></div><div class="r2"><span>Fewer</span><span>More</span></div></div>
+<div class="glass" id="detail"></div><div class="glass" id="res"></div><div id="tip"></div></div>
+<section id="method"><div><h1>How this tool works</h1>
+<h2>Data sources</h2><ul><li><b>Population:</b> 2022 Census (NISR), mapped with WorldPop 2020.</li><li><b>Poverty:</b> census poverty index by sector (NISR), checked with the EICV7 survey.</li><li><b>Facilities and roads:</b> public facility list (Maina et al. 2019) and OpenStreetMap.</li></ul>
+<h2>How priority is calculated</h2><ul><li>We estimate the walk from every 100 m cell to the nearest facility: 5 km/h on roads and paths, 2.5 km/h elsewhere.</li><li>We count people more than 60 minutes away, then multiply by a poverty rate.</li><li>Check: our average walk is 29.8 minutes. The EICV7 survey says 31.7.</li></ul>
+<h2>Why there are two totals</h2><table class="tb"><tr><th>Poverty measure</th><th>Level</th><th>Poor and far</th></tr><tr><td>Census poverty index (non-monetary). <b>Used on the dashboard.</b></td><td>Sector</td><td><b>about 367,000</b></td></tr><tr><td>EICV7 survey (monetary poverty rate)</td><td>District</td><td><b>about <span id="alt"></span></b></td></tr></table><p class="mut">Different poverty definitions and different map detail give different totals. We use the sector measure because it is more local. The top sectors stay the same in most cases: 17 of the top 20 are confirmed by both.</p>
+<h2>National priorities</h2><p class="mut" style="font-size:15px">Supports NST2 (2024–2029), Social Transformation pillar: stronger health systems and graduation from poverty. Supports Vision 2050: quality of life for all Rwandans.</p>
+<h2>Keeping it up to date</h2><table class="tb"><tr><th>Data</th><th>Date</th><th>How it is updated</th></tr><tr><td>Population</td><td>Census 2022</td><td>When NISR publishes new census or projections</td></tr><tr><td>Poverty</td><td>Census 2022, EICV7 (2023/24)</td><td>When NISR publishes a new survey</td></tr><tr><td>Health facilities</td><td>Public list 2019, OpenStreetMap</td><td>New facilities are added as a row in a file, or pulled from OpenStreetMap with a script. Then the analysis is rerun</td></tr></table><p class="mut">This is a planning tool, not a real-time system. Poverty and population come from surveys and censuses, so they change only when NISR releases new data. Rerunning takes minutes.</p>
+<h2>Limitations</h2><ul><li>Health posts are only partly mapped.</li><li>Hills are not modelled, and walking speeds are averages. A shorter walk does not mean care is available, and a site may not be buildable.</li><li>Poverty is assumed even inside a sector. The new-site tool tests one site at a time, on a 2 km grid.</li><li>Results are for planning discussion only.</li></ul></div></section>
+</main>
+<script>
+const D=/*DATA*/;const $=s=>document.querySelector(s),N=n=>Math.round(n).toLocaleString("en-US"),K=n=>(Math.round(n/1000)*1000).toLocaleString("en-US");
+/* map colors, fewest to most poor people far from a facility (magma scale, colour-blind safe) */
+const PAL=["#2b1055","#8c2981","#de4968","#fe9f6d","#fcfdbf"];
+const sv=$("#sv"),main=$("main"),NS="http://www.w3.org/2000/svg";let vb=[40,30,2080,1830],view="home",sel=-1,moved=0,down=null;const setVB=()=>{sv.setAttribute("viewBox",vb.join(" "));const u=vb[2];sv.style.setProperty("--fr",u*.0026+"px");sv.style.setProperty("--mr",u*.011+"px");sv.style.setProperty("--tx",u*.014+"px")};setVB();
+const mk=(t,a,p)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);(p||sv).appendChild(e);return e};
+const gS=mk("g",{}),gF=mk("g",{display:"none"}),gB=mk("g",{}),gM=mk("g",{});
+const paths=D.sec.map(s=>mk("path",{d:s.path,class:"sec","fill-rule":"evenodd"},gS));
+D.fac.forEach(f=>mk("circle",{cx:f[0],cy:f[1],class:"f",fill:"#38d1c9",stroke:"#090b16","stroke-width":.6,"pointer-events":"none"},gF));
+$("#hero").textContent=K(D.tot.poor);$("#alt").textContent=K(D.tot.poor_eicv);$("#alt2").textContent=K(D.tot.poor_eicv);$("#bar").style.background=`linear-gradient(90deg,${PAL.join(",")})`;
+const v=D.sec.map(s=>s.pf).sort((a,b)=>a-b),br=[.4,.7,.9,.97].map(q=>v[Math.floor(q*v.length)]);
+D.sec.forEach((s,i)=>paths[i].setAttribute("fill",PAL[br.filter(b=>s.pf>=b).length]));
+$("#prov").innerHTML=["All provinces",...new Set(D.sec.map(s=>s.pv))].map(p=>`<option>${p}</option>`).join("");
+const inP=s=>$("#prov").value=="All provinces"||s.pv==$("#prov").value;
+function fit(list,pad){let x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;list.forEach(e=>{const b=e.getBBox();x0=Math.min(x0,b.x);y0=Math.min(y0,b.y);x1=Math.max(x1,b.x+b.width);y1=Math.max(y1,b.y+b.height)});
+const ar=sv.clientWidth/sv.clientHeight||1;let w=(x1-x0)*pad,h=(y1-y0)*pad;if(w/h<ar)w=h*ar;else h=w/ar;vb=[(x0+x1)/2-w/2,(y0+y1)/2-h/2,w,h];setVB()}
+const ranked=()=>D.sec.map((s,i)=>i).filter(i=>inP(D.sec[i])).sort((a,b)=>D.sec[b].pf-D.sec[a].pf);
+function cards(){$("#cards").innerHTML=ranked().slice(0,5).map((i,k)=>{const s=D.sec[i];return `<div class="card" tabindex="0" role="button" title="View on map" aria-label="${s.n}, ${s.d}: view on map" data-i="${i}"><span class="n">${k+1}</span><div><b>${s.n} – ${s.d}</b><small>${N(s.pf)} poor people beyond 60 min</small></div><span class="v" aria-hidden="true">→</span></div>`}).join("");
+document.querySelectorAll(".card").forEach(c=>c.onclick=c.onkeydown=e=>{if(!e.key||e.key=="Enter")pick(+c.dataset.i)})}
+function filt(){D.sec.forEach((s,i)=>paths[i].classList.toggle("dim",!inP(s)));closeD();cards();const l=ranked();fit(l.length<D.sec.length?l.map(i=>paths[i]):paths,1.06)}
+$("#prov").onchange=filt;cards();
+function pick(i){sel=i;sv.classList.add("hs");paths.forEach((p,j)=>p.classList.toggle("sel",j==i));const s=D.sec[i];fit([paths[i]],3.5);
+$("#detail").style.display="block";$("#detail").innerHTML=`<button class="x" aria-label="Close">×</button><h3>${s.n}, ${s.d}</h3><div class="big">${N(s.pf)}</div><p>poor people live more than 60 minutes' walk from a health facility</p><div class="chk">${N(s.b60)} people beyond 60 min in total · average walk ${Math.round(s.w)} min<br>${s.rb?"✓ Top 40 with both facility lists":"Less certain: ranks lower with the public facility list"}<br>${s.ae?"✓ Confirmed by the EICV7 survey rate":"Less certain: ranks lower with the EICV7 survey rate"}</div>`;$("#detail .x").onclick=()=>closeD(1)}
+function closeD(rz){sel=-1;sv.classList.remove("hs");paths.forEach(p=>p.classList.remove("sel"));$("#detail").style.display="none";if(rz)fit(paths,1.06)}
+const DIST=[...new Set(D.sec.map(s=>s.d))];let hits=[],act=0;
+function find(q){q=q.trim().toLowerCase();if(!q)return[];const o=[];D.sec.forEach((s,i)=>{const n=s.n.toLowerCase();if(n.includes(q))o.push({k:n.startsWith(q)?0:1,t:"s",i,l:s.n,sub:s.d})});DIST.forEach(d=>{const n=d.toLowerCase();if(n.includes(q))o.push({k:n.startsWith(q)?0:1,t:"d",d,l:d,sub:"District"})});return o.sort((a,b)=>a.k-b.k||a.l.localeCompare(b.l)).slice(0,8)}
+function drawSR(){const b=$("#sr"),has=$("#q").value.trim();b.style.display=has?"block":"none";b.innerHTML=hits.length?hits.map((h,k)=>`<button type="button" data-k="${k}" class="${k==act?"on":""}"><span>${h.l}</span><small>${h.sub}</small></button>`).join(""):(has?'<div class="mut" style="padding:8px">No match</div>':"");b.querySelectorAll("button").forEach(x=>x.onclick=()=>go(hits[+x.dataset.k]))}
+$("#q").oninput=e=>{hits=find(e.target.value);act=0;drawSR()};
+$("#q").onkeydown=e=>{if(e.key=="ArrowDown"){act=Math.min(act+1,hits.length-1);drawSR();e.preventDefault()}else if(e.key=="ArrowUp"){act=Math.max(act-1,0);drawSR();e.preventDefault()}else if(e.key=="Enter"&&hits[act])go(hits[act]);else if(e.key=="Escape")$("#sr").style.display="none"};
+function spot(idx){paths.forEach((p,j)=>p.classList.toggle("sel",idx.includes(j)));sv.classList.add("hs");fit(idx.map(i=>paths[i]),idx.length>1?1.15:3.5)}
+function pickD(d,idx){sel=-1;spot(idx);const S=idx.map(i=>D.sec[i]),pf=S.reduce((a,s)=>a+s.pf,0),b=S.reduce((a,s)=>a+s.b60,0),tp=S.slice().sort((a,c)=>c.pf-a.pf)[0];$("#detail").style.display="block";$("#detail").innerHTML=`<button class="x" aria-label="Close">×</button><h3>${d} District</h3><div class="big">${N(pf)}</div><p>poor people live more than 60 minutes' walk from a health facility</p><div class="chk">${N(b)} people beyond 60 min in total · ${S.length} sectors<br>Highest: ${tp.n} (${N(tp.pf)})</div>`;$("#detail .x").onclick=()=>closeD(1)}
+function go(h){$("#sr").style.display="none";$("#q").value=h.l;const idx=h.t=="s"?[h.i]:D.sec.map((s,i)=>i).filter(i=>D.sec[i].d==h.d);if(view=="home")h.t=="s"?pick(h.i):pickD(h.d,idx);else spot(idx)}
+
+$("#go").onclick=()=>pick(ranked()[0]);
+$("#fc").onchange=e=>gF.setAttribute("display",e.target.checked?"":"none");
+D.best.forEach(s=>{const g=mk("g",{display:"none"},gB);mk("circle",{cx:s.x,cy:s.y,class:"m",fill:"#7c6cf0",stroke:"#fff","stroke-width":2,"vector-effect":"non-scaling-stroke"},g);const t=mk("text",{x:s.x,y:s.y,"dominant-baseline":"central","text-anchor":"middle",class:"bs",fill:"#fff","font-weight":800,"pointer-events":"none"},g);t.textContent=s.o;mk("title",{},g).textContent=`Site ${s.o}: ${s.s}, ${s.d}. About ${N(s.g)} more people within 60 min`});
+$("#bst").onchange=e=>{gB.querySelectorAll("g").forEach(g=>g.setAttribute("display",e.target.checked?"":"none"));const l=$("#bl");l.style.display=e.target.checked?"block":"none";l.innerHTML=`<table class="tb">${D.best.map(s=>`<tr><td>${s.o}</td><td>${s.s}<div class="mut">${s.d}</div></td><td><b>+${N(s.g)}</b><div class="mut">${N(s.p)} poor</div></td></tr>`).join("")}</table><div class="mut">Extra people (poor and non-poor, including nearby sectors) within a 60-minute walk of the new site. Picked one after another, so no one is counted twice. This differs from the Overview ranking, which counts poor people far from care in each sector.</div>`};
+function test(x,y,si){closeD();let b=null,d=1e9;D.cand.forEach(c=>{const q=(c[0]-x)**2+(c[1]-y)**2;if(q<d){d=q;b=c}});gM.innerHTML="";$("#res").style.display="block";
+if(!b||d>27*27||b[2]==0){$("#res").innerHTML=`<h3>${si>=0?D.sec[si].n+", "+D.sec[si].d:"Outside Rwanda"}</h3><div style="font-weight:600;margin-top:4px">No new access here</div><p>${si>=0?"Facilities are probably already close by.":"This spot is outside Rwanda."} Try clicking on a brighter area.</p><p><button class="ghost" id="clr">Clear and try another location</button></p>`}
+else{const L=D.sec[b[3]];mk("circle",{cx:b[0],cy:b[1],class:"m",fill:"#7c6cf0",stroke:"#fff","stroke-width":3,"vector-effect":"non-scaling-stroke"},gM);$("#res").innerHTML=`<h3>${L.n}, ${L.d}</h3><div class="big">+${N(b[2])}</div><p style="font-size:15px;color:var(--ink)">people who live far from a facility today would be within a 60-minute walk of one</p><table class="tb ba"><tr><th>People living more than 60 min from a facility</th><th>Today</th><th>With this site</th></tr><tr><td>All of Rwanda</td><td>${N(D.tot.far)}</td><td><b>${N(D.tot.far-b[2])}</b></td></tr></table><p>Estimate for the nearest point on a 2 km grid. The gain can include people in nearby sectors, so we show the national total only.</p><p><button class="ghost" id="clr">Clear and try another location</button></p>`}
+$("#clr").onclick=clr}
+function clr(){gM.innerHTML="";$("#res").style.display="none"}
+function show(w){view=w;main.dataset.view=w;document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-current",b.dataset.v==w));$("#tip").style.display="none";clr();if(w!="method")requestAnimationFrame(()=>{if(w=="home"&&sel>=0)pick(sel);else filt()})}
+document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>show(b.dataset.v));
+sv.onpointerdown=e=>{down=e.target;moved=0;sv.dragging={x:e.clientX,y:e.clientY};sv.setPointerCapture(e.pointerId)};
+sv.onpointermove=e=>{const d=sv.dragging;if(d){const k=vb[2]/sv.clientWidth;moved+=Math.abs(e.clientX-d.x)+Math.abs(e.clientY-d.y);vb[0]-=(e.clientX-d.x)*k;vb[1]-=(e.clientY-d.y)*k;sv.dragging={x:e.clientX,y:e.clientY};setVB();return}
+const i=paths.indexOf(e.target),t=$("#tip");if(i<0||view!="home"){t.style.display="none";return}const s=D.sec[i],r=$("#mapwrap").getBoundingClientRect();t.style.display="block";t.style.left=Math.min(e.clientX-r.left+14,r.width-250)+"px";t.style.top=e.clientY-r.top+14+"px";t.innerHTML=`<b>${s.n}</b>, ${s.d}<br>${N(s.pf)} poor people beyond 60 min`};
+sv.onpointerup=e=>{sv.dragging=null;if(moved>5)return;if(view=="home"){const i=paths.indexOf(down);if(i>=0)pick(i)}else{const p=sv.createSVGPoint();p.x=e.clientX;p.y=e.clientY;const q=p.matrixTransform(sv.getScreenCTM().inverse());test(q.x,q.y,paths.indexOf(down))}};
+sv.onwheel=e=>{e.preventDefault();const f=e.deltaY>0?1.15:1/1.15,p=sv.createSVGPoint();p.x=e.clientX;p.y=e.clientY;const q=p.matrixTransform(sv.getScreenCTM().inverse());vb=[q.x-(q.x-vb[0])*f,q.y-(q.y-vb[1])*f,vb[2]*f,vb[3]*f];setVB()};
+addEventListener("resize",()=>{if(view!="method"&&sel<0)filt()});requestAnimationFrame(filt);
+</script></body></html>
