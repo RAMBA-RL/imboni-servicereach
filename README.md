@@ -4,7 +4,7 @@
 *NISR 2026 Big Data Hackathon | Track 3: Open Innovation*
 
 * **Team:** `RAMBA RWIBUTSO Leonore` and `RUDASINGWA Allan` (`University of Rwanda`)
-* **Live app:** 
+* **Live app:** `https://imboni-servicereach.netlify.app/`
 * **Demo Video (Max 3 min):** `demo/demo.webm`
 
 ---
